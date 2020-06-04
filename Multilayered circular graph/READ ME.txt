@@ -1,0 +1,16 @@
+BrainMultilayeredGraph.m
+plots a multilayered circular graph (as shown in figure 8), visualizing a
+laminar-level connectome 
+(our model based on white grey matter datasets and granularity indices). 
+
+uses circularGraphCL.m
+(visualization completed based on: Paul Kassebaum (2020), circularGraph 
+(https://www.github.com/paul-kassebaum-mathworks/circularGraph), GitHub)
+
+and adds colors to nodes and edges based on laminar categories.
+
+Use BMG_variables.mat for example data (as shown in paper).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Written by: Ittai Shamir
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

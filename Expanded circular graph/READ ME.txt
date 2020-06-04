@@ -1,0 +1,16 @@
+BrainCricularGraph.m
+plots an expanded circular graph (as shown in figure 7), including white and 
+grey matter datasets and granularity indices. 
+
+uses circularGraph2.m
+to plot white matter connectomics
+(visualization completed based on: Paul Kassebaum (2020), circularGraph 
+(https://www.github.com/paul-kassebaum-mathworks/circularGraph), GitHub)
+
+and adds grey matter laminar composition and granularity index per region.
+
+Use BCG_variables.mat for example data (as shown in paper).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Written by: Ittai Shamir
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
